@@ -1,0 +1,124 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "producto": "Chocolate Carbury Yogurt",
+            "precio": 150,
+            "precioTotal": 0
+        },
+        {
+            "id": 2,
+            "producto": "Gomitas Acidas",
+            "precio": 80,
+            "precioTotal": 0
+        },
+        {
+            "id": 3,
+            "producto": "Caramelo masticable",
+            "precio": 5,
+            "precioTotal": 0
+        },
+        {
+            "id": 4,
+            "producto": "Coca-Cola 1.5L",
+            "precio": 25,
+            "precioTotal": 0
+        },
+        {
+            "id": 5,
+            "producto": "Alfajor",
+            "precio": 125,
+            "precioTotal": 0
+        },
+        {
+            "id": 6,
+            "producto": "Chupetines",
+            "precio": 10,
+            "precioTotal": 0
+        },
+        {
+            "id": 7,
+            "producto": "Caramelo Media Hora",
+            "precio": 3,
+            "precioTotal": 0
+        },
+        {
+            "id": 8,
+            "producto": "Chicles Push",
+            "precio": 45,
+            "precioTotal": 0
+        },
+        {
+            "id": 9,
+            "producto": "Flin-Paf",
+            "precio": 15,
+            "precioTotal": 0
+        },
+        {
+            "id": 10,
+            "producto": "Chocolate Aguila",
+            "precio": 220,
+            "precioTotal": 0
+        },
+        {
+            "id": 11,
+            "producto": "Pepsi 1L",
+            "precio": 220,
+            "precioTotal": 0
+        },
+        {
+            "id": 12,
+            "producto": "Alfajor Capitan del Espacio",
+            "precio": 80,
+            "precioTotal": 0
+        },
+        {
+            "id": 13,
+            "producto": "Chocolate Aguila Blanco",
+            "precio": 150,
+            "precioTotal": 0
+        },
+        {
+            "id": 14,
+            "producto": "Toraso Manzana 3L",
+            "precio": 300,
+            "precioTotal": 0
+        },
+        {
+            "id": 15,
+            "producto": "Gomitas Moritas",
+            "precio": 150,
+            "precioTotal": 0
+        },
+        {
+            "id": 16,
+            "producto": "Papas Fritas Lays",
+            "precio": 220,
+            "precioTotal": 0
+        },
+        {
+            "id": 17,
+            "producto": "Chocolate Chupetin Paraguitas",
+            "precio": 95,
+            "precioTotal": 0
+        },
+        {
+            "id": 18,
+            "producto": "Leche con chocolate Cindor 1L",
+            "precio": 160,
+            "precioTotal": 0
+        },
+        {
+            "id": 19,
+            "producto": "Barra de Chocolate Nugaton",
+            "precio": 100,
+            "precioTotal": 0
+        },
+        {
+            "id": 20,
+            "producto": "Chocolate Blockazo 1kg",
+            "precio": 1200,
+            "precioTotal": 0
+        }
+    ]
+}

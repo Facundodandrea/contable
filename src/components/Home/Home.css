@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128&display=swap');
+
+.header{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: two-column;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+}
+
+.barra-buscar{
+    width: 400px;
+    margin-right: 20px!important;
+}
+
+.barra{
+    width: 400px;
+    margin-right: 20px!important;
+}
+
+.boton{
+    height: 55px;
+    width: 135px;
+    margin-right:5px!important;
+}
+
+.datos-personales{
+    float:left;
+    width:520px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 30px 10px 200px!important;
+}
+
+.productos{
+    float:left;
+    width: 520px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 30px 40px 30px!important;
+}
+
+.productos-contenido{
+    width: 600px;
+    height: 300px;
+    margin-top: 20px;
+    background-color: #3f51b534;
+    border-radius: 10px;
+    border: 1px solid #3f51b5;
+}
+
+.MuiTextField-root:not(.barra-buscar){
+    margin: 4px 0 7px 0!important;   
+}
+
+.titulo-2{
+    margin-top: 25px!important;
+}
+
+.boton-factura{
+   margin-top: -30px!important;
+   width: 120px;
+   margin-left: 480px!important;
+}
+
+/*========== FACTURA ==============*/
+.factura{
+    width: 50px;
+    height: 50px;
+    background: #000;
+    color: white;
+    font-size: 35px;
+}
+
+.img-factura{
+    float: left;
+    width: 250px;
+}
+
+table, td, tr{
+    width: 100%;
+    border: 0.5px solid black;
+}
+
+td{
+    width: 25%;
+    height: 20px;
+}
+
+
+.left{
+    float: left;
+    width: 300px;
+}
+
+.info-factura{
+    float: left;
+    width: 350px;
+}
+
+.info-empresa{
+    float: left;
+    width: 250px;
+}
+
+.info{
+    float: left;
+    width: 350px;
+}
+
+.info-2{
+    float: left;
+    width: 450px;
+}
+
+.info-3{
+    border: 1px solid black;
+    text-align: left;
+    padding-left: 20px;
+}
+
+p, h5, h6{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: -6px;
+}
+
+.cabeza-factura{
+    text-align: left;
+    margin-left: 30px;
+}
+
+.barra{
+    font-family: 'Libre Barcode 128'!important;
+    font-size: 50px !important;
+    letter-spacing: 5px !important;
+    padding-top: 15px !important;
+}
